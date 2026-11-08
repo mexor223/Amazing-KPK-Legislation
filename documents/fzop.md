@@ -1,3 +1,5 @@
+ФЗоП: [https://forum.amazing-online.com/threads/federal-nyi-zakon-o-politsii-ot-25-09-2026-n-1-fz.1173911/](https://forum.amazing-online.com/threads/federal-nyi-zakon-o-politsii-ot-25-09-2026-n-1-fz.1173911/)
+
 # ФЗоП
 
 [Федеральный закон «О полиции» — первоисточник на форуме Amazing Online](https://forum.amazing-online.com/threads/federal-nyi-zakon-o-politsii-ot-25-09-2026-n-1-fz.1173911/)
