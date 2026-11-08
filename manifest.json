@@ -2,12 +2,12 @@
   "documents": [
     {
       "name": "Федеральный закон «О полиции» (ФЗоП)",
-      "filename": "Федеральный закон «О полиции» (ФЗоП)",
+      "filename": "fzop",
       "url": "https://raw.githubusercontent.com/mexor223/Amazing-KPK-Legislation/main/documents/fzop.md"
     },
     {
       "name": "Федеральный закон «О Вооруженных силах и военной службе» (ФЗоВС)",
-      "filename": "Федеральный закон «О Вооруженных силах и военной службе» (ФЗоВС)",
+      "filename": "fzovs",
       "url": "https://raw.githubusercontent.com/mexor223/Amazing-KPK-Legislation/main/documents/fzovs"
     }
   ]
